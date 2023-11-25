@@ -1,15 +1,14 @@
+
 /* Your CSS Code here. */
-.holder{
-	align-items: center;
-	text-align: center;
-}
 .moviePic{
-	heigth: 50%;
-	margin: auto;
-	opacity:1.5;
+    width: 50%;
+    height: 50%;
+    opacity: 0.9;
 }
 .movieDetail{
-	text-align: justify;
-	margin-top: 20px;
-	font-size: 15px;
+    position: static;
+    top: auto;
+    width: auto;
+    text-align: center;
+    font-size: medium;
 }
